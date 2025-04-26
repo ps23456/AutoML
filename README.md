@@ -1,0 +1,1 @@
+Here i have developed a platform where anyone can just upload the dataset and it will autmatically generate the result and also tell us if the dataset comes under classification or regression model. using y profiler it can generate the whole report.more then 10 models are running in in both classification and regression and find the precision,accuracy,recall etc
